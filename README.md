@@ -128,11 +128,3 @@ Once run, you’ll receive a **Critical Analysis Report** like:
 - An alternative perspective could argue...
 ```
 
----
-
-## 📌 Notes
-- This tool **does not verify claims** — it helps you **ask better questions**.
-- Some websites may block scraping; in such cases, you may need to provide the article text manually.
-- Best run in an environment with **internet access** and **valid Groq API credentials**.
-
----
